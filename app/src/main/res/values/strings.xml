@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Segway</string>
+    <string name="segway_rental_app">Segway Rental App</string>
+    <string name="btn_rent">Rent Segway</string>
+    <string name="riding_segway">Riding Segway</string>
+    <string name="rentNow">Rent a Segway Today!</string>
+</resources>
